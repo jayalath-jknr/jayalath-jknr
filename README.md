@@ -26,19 +26,19 @@ A research project aimed at enhancing user experience in mobile applications usi
 
 
 ## 🛠️ Skills
-Programming Languages: Python, Dart, JavaScript, HTML/CSS
-Frameworks & Libraries: Flutter, React, Streamlit, TensorFlow
-Tools & Technologies: Firebase, ARCore, Git, GitHub, Docker
-Research & Development: Web Sequence Mining, Machine Learning, AI, Agent Based Modelling and Complex Systems
+- Programming Languages: Python, Dart, JavaScript, HTML/CSS
+- Frameworks & Libraries: Flutter, React, Streamlit, TensorFlow
+- Tools & Technologies: Firebase, ARCore, Git, GitHub, Docker
+- Research & Development: Web Sequence Mining, Machine Learning, AI, Agent Based Modelling and Complex Systems
 
 ## 🎯 Goals
-Continue exploring AI and machine learning applications in various industries.
-Build and contribute to open-source projects that make a difference.
-Share knowledge through blogs, tutorials, and community engagement.
+- Continue exploring AI and machine learning applications in various industries.
+- Build and contribute to open-source projects that make a difference.
+- Share knowledge through blogs, tutorials, and community engagement.
 
 ## 📫 Let's Connect
-LinkedIn: https://www.linkedin.com/in/nirasha-jayalath-2a7bb6153/
-Medium : https://medium.com/@jknrjayalath
-LabLab AI Profile : https://lablab.ai/u/@nirasha_jayalath26
-Email: jknrjayalath@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nirasha-jayalath-2a7bb6153/
+- Medium: https://medium.com/@jknrjayalath
+- LabLab AI Profile : https://lablab.ai/u/@nirasha_jayalath26
+- Email: jknrjayalath@gmail.com
 
