@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jayalath Jknr
+## 👋 Hi, I'm J. K. N. R. Jayalath 
 
 Welcome to my GitHub profile! I'm an enthusiastic developer and researcher from Sri Lanka, passionate about leveraging technology to solve real-world problems. My work spans various domains, including web development, mobile applications, AI, and data science.
 
