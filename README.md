@@ -1,8 +1,8 @@
-##👋 Hi, I'm Jayalath Jknr
+## 👋 Hi, I'm Jayalath Jknr
 
 Welcome to my GitHub profile! I'm an enthusiastic developer and researcher from Sri Lanka, passionate about leveraging technology to solve real-world problems. My work spans various domains, including web development, mobile applications, AI, and data science.
 
-##🌟 Projects and Contributions
+## 🌟 Projects and Contributions
 🌱 Plant Doc
 An all-in-one mobile application for home gardeners. 'Plant Doc' helps users manage their gardens, identify plant diseases, and much more using Flutter, Firebase, ARCore, and machine learning.
 
@@ -25,18 +25,18 @@ A prototype web-based application that identifies objects and provides instructi
 A research project aimed at enhancing user experience in mobile applications using web sequence mining techniques. Focused on the agriculture sector, this project analyzes web log data to improve usability.
 
 
-##🛠️ Skills
+## 🛠️ Skills
 Programming Languages: Python, Dart, JavaScript, HTML/CSS
 Frameworks & Libraries: Flutter, React, Streamlit, TensorFlow
 Tools & Technologies: Firebase, ARCore, Git, GitHub, Docker
 Research & Development: Web Sequence Mining, Machine Learning, AI, Agent Based Modelling and Complex Systems
 
-##🎯 Goals
+## 🎯 Goals
 Continue exploring AI and machine learning applications in various industries.
 Build and contribute to open-source projects that make a difference.
 Share knowledge through blogs, tutorials, and community engagement.
 
-##📫 Let's Connect
+## 📫 Let's Connect
 LinkedIn: https://www.linkedin.com/in/nirasha-jayalath-2a7bb6153/
 Medium : https://medium.com/@jknrjayalath
 LabLab AI Profile : https://lablab.ai/u/@nirasha_jayalath26
